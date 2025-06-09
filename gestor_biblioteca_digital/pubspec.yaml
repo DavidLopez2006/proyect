@@ -1,0 +1,10 @@
+# Archivo: pubspec.yaml
+name: gestor_biblioteca_digital
+description: Un gestor de biblioteca digital para la consola.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  # No hay dependencias externas para este proyecto básico.
